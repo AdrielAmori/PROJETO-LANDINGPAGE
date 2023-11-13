@@ -1,0 +1,1 @@
+let leonardo = document.getElementById("leonardo")

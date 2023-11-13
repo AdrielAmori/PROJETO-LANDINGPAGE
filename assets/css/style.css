@@ -62,3 +62,36 @@
     display: flex;
     align-items: center;
 }
+
+#carrossel {
+    background-color: #247BA0;
+    padding: 50px;
+}
+
+#titulo-carrossel {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+#div-cards {
+    margin-top: 25px;
+    display: grid;
+    grid-auto-flow: column;
+}
+
+.card {
+    margin-left: 50px;
+}
+
+#seta-esquerda {
+    display: none;
+}
+
+#bruna {
+    display: none;
+}
+
+.seta {
+    margin-top: 30%;
+}
